@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_dependencies":
 	[
 		"0_package_control_loader",
@@ -9,6 +12,7 @@
 		"CoffeeScript",
 		"ERB Autocomplete",
 		"ERB Snippets",
+		"Gist",
 		"GitGutter",
 		"Package Control",
 		"Rake",
