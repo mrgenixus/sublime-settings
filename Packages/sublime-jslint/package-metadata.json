@@ -1,1 +1,1 @@
-{"url": "https://github.com/fbzhong/sublime-jslint", "version": "2014.12.08.20.05.37", "description": "JSLint support for Sublime Text 2"}
+{"description": "JSLint support for Sublime Text 2", "url": "https://github.com/fbzhong/sublime-jslint", "platforms": ["*"], "version": "2015.02.01.15.06.44", "sublime_text": "<3000", "dependencies": []}

@@ -2,11 +2,6 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
 		"CoffeeScript",
@@ -14,12 +9,17 @@
 		"ERB Snippets",
 		"Gist",
 		"GitGutter",
+		"Jade",
+		"JSHint Inline",
+		"LESS",
+		"LoremIpsum",
 		"Package Control",
 		"Rake",
 		"SCSS",
 		"Stylus",
 		"Stylus-Snippets",
 		"sublime-jslint",
+		"SublimeLinter",
 		"ToggleQuotes"
 	]
 }
