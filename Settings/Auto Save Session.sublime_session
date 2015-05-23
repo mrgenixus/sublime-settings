@@ -23,7 +23,7 @@
 	"last_window_id": 36,
 	"settings":
 	{
-		"new_window_height": 480.0,
+		"new_window_height": 0.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -419,7 +419,7 @@
 			},
 			"find_in_files":
 			{
-				"height": 93.0,
+				"height": 0.0,
 				"where_history":
 				[
 					"-node_modules/, -cleverclerk.min.js",
@@ -1019,7 +1019,7 @@
 			"side_bar_width": 253.0,
 			"status_bar_visible": true
 		},
-		"new_window_width": 640.0
+		"new_window_width": 0.0
 	},
 	"windows":
 	[
@@ -2493,7 +2493,7 @@
 			},
 			"find_in_files":
 			{
-				"height": 93.0,
+				"height": 0.0,
 				"where_history":
 				[
 					"-node_modules/, -cleverclerk.min.js",
@@ -2902,7 +2902,7 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 30.0,
-								"translation.y": 376.0,
+								"translation.y": 332.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -3888,12 +3888,102 @@
 								],
 								"settings":
 								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
 									"detect_indentation": false,
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"devel": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
 									"output_tag": 1,
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
 									"result_base_dir": "",
 									"result_file_regex": "^([A-Za-z\\\\/<].*):$",
 									"result_line_regex": "^ +([0-9]+):",
 									"scroll_past_end": true,
+									"sublimelinter": "load-save",
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
 									"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
 									"translate_tabs_to_spaces": false
 								},
@@ -4066,7 +4156,7 @@
 			{
 				"height": 118.0
 			},
-			"position": "0,1,0,0,0,960,27,1600,507,4480,1440",
+			"position": "0,1,0,0,0,0,0,0,0,4480,1440",
 			"replace":
 			{
 				"height": 64.0
@@ -4663,23 +4753,50 @@
 					}
 				},
 				{
-					"contents": "var Backbone = require('app/mvc.js');\nvar _ = require('underscore');\n\nvar BookingPresenter = require('app/presenters/booking.js');\n\nvar bookingStatusTemplate = require('app/templates/notifications/booking_status.jade');\nvar notificationMessage = require('lib/notification_message.js');\n\nvar BookingStatus = Backbone.View.extend({\n  initialize: function(options) {\n    var _this = this;\n    options.injectedDependencies(this, ['cleverClerk', 'bookings', 'notification_popover']);    \n    this.listenTo(this.model, 'change', this.render);\n  },\n\n  tagName: 'li',\n  className: 'booking',\n\n  template: bookingStatusTemplate,\n\n  events: {\n    'click .booking_confirmed': 'confirm_booking',\n    'click .booking_declined': 'decline_booking',\n    'click': 'hide_notification'\n  },\n\n  hide_notification: function() {\n    this.model.hide();\n  },\n\n  render: function() {\n    this.$el.html(this.template({\n      notification: this.notification()\n    }));\n  },\n\n  notification: function() {\n    return _.extend({}, notificationMessage(this.model.get('status')), {\n      booking: BookingPresenter.present(this.model),\n    });\n  },\n\n  confirm_booking: function(e) {\n    var booking_id = this.model.get('id');\n\n    this.cleverClerk.new_booking_confirmation(booking_id, 'confirmation')\n      .done(this.notification_popover.update_bookings);\n  },\n\n  decline_booking: function(e) {\n    var booking_id = this.model.get('id');\n\n    this.cleverClerk.new_booking_confirmation(booking_id, 'rejection') //rejection!\n      .done(this.notification_popover.update_bookings);\n  }\n});\n\nmodule.exports = BookingStatus;\n",
 					"file": "/home/bwest/Projects/cleverclerk/guest_client/app/views/booking_status.js",
-					"file_size": 1779,
-					"file_write_time": 1432353691000000,
 					"settings":
 					{
-						"buffer_size": 1588,
+						"buffer_size": 1584,
 						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\nStylus:\n------\n\n  ///////////////////////////////////////\n  //                                   //\n  //      Stylus for Sublime Text      //\n  //                                   //\n  ///////////////////////////////////////\n  \n  \n  IMPORTANT: Snippets for CSS properties\n  --------------------------------------\n  \n  Snippets for CSS properties are not provided as part of this package and Emmet or Hayaku packages should be used instead to provide this (and much more) functionality. Both choices are available via Package Control.\n  \n  If you rather use regular Sublime Text snippets for some reason, then snippets that were previously a part of Stylus package can be installed as new Sublime-Snippets package, which is also available via Package Control.\n  \n  You can learn more about packages mentioned above by following these links:\n  \n  https://github.com/sergeche/emmet-sublime\n  https://github.com/hayaku/hayaku\n  https://github.com/billymoon/Stylus-Snippets\n  \n  \n  \n  Build System Requirements\n  -------------------------\n  \n  In order for build system to work you will need stylus installed via npm and available in your PATH.\n  \n  ------------------------------------------------\n  Please report any issues with this package here:\n  https://github.com/billymoon/Stylus/issues\n  ------------------------------------------------\n  \n  ",
+					"settings":
+					{
+						"buffer_size": 1398,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"scratch": true
 					}
 				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 33.0,
+				"height": 75.0,
 				"selected_items":
 				[
+					[
+						"upda",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
 					[
 						"wrap",
 						"Word Wrap: Toggle"
@@ -4690,14 +4807,6 @@
 					],
 					[
 						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"ins",
 						"Package Control: Install Package"
 					],
 					[
@@ -4721,10 +4830,6 @@
 						"Set Syntax: HTML"
 					],
 					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
 						"synh",
 						"Set Syntax: HTML"
 					],
@@ -4741,7 +4846,7 @@
 						"Preferences: Browse Packages"
 					]
 				],
-				"width": 467.0
+				"width": 449.0
 			},
 			"console":
 			{
@@ -4893,7 +4998,7 @@
 			},
 			"find_in_files":
 			{
-				"height": 93.0,
+				"height": 0.0,
 				"where_history":
 				[
 					"-node_modules/, -cleverclerk.min.js",
@@ -5302,7 +5407,7 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 204.0,
+								"translation.y": 117.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -5310,7 +5415,7 @@
 					]
 				},
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
@@ -5318,15 +5423,15 @@
 							"file": "/home/bwest/Projects/cleverclerk/guest_client/app/views/booking_status.js",
 							"settings":
 							{
-								"buffer_size": 1588,
+								"buffer_size": 1584,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										70,
-										70
+										478,
+										478
 									]
 								],
 								"settings":
@@ -5425,8 +5530,35 @@
 									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
-								"translation.x": 157.0,
+								"translation.x": 0.0,
 								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"settings":
+							{
+								"buffer_size": 1398,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1398,
+										1398
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 360.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -5476,7 +5608,7 @@
 			{
 				"height": 118.0
 			},
-			"position": "0,1,0,0,0,960,27,1600,507,4480,1440",
+			"position": "0,1,0,0,0,0,0,0,0,4480,1440",
 			"replace":
 			{
 				"height": 64.0

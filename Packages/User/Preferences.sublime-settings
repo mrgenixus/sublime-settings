@@ -1,15 +1,11 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
-	"ignored_packages": [
-		"Vintage",
-		"UIkit autocomplete",
-		"Whitespace"
+	"font_size": 9.0,
+	"ignored_packages":
+	[
+		"Vintage"
 	],
-	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
-	"trim_automatic_white_space": true,
-	"trim_trailing_white_space_on_save": true,
 	"rulers":
 	[
 		40,
@@ -18,5 +14,8 @@
 		120
 	],
 	"scroll_past_end": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": false
 }

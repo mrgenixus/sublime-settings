@@ -5,16 +5,22 @@
 	"installed_packages":
 	[
 		"CoffeeScript",
-		"CoffeeScriptHaml",
+		"ERB Autocomplete",
+		"ERB Snippets",
 		"fish-shell",
 		"Gist",
 		"GitGutter",
 		"Jade",
+		"JSHint Inline",
+		"LESS",
+		"LoremIpsum",
 		"Package Control",
+		"Rake",
+		"SCSS",
+		"Stylus",
+		"Stylus-Snippets",
+		"sublime-jslint",
 		"SublimeLinter",
-		"Swig",
-		"ToggleQuotes",
-		"UIkit autocomplete",
-		"Whitespace"
+		"ToggleQuotes"
 	]
 }

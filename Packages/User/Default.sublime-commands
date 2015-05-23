@@ -1,0 +1,12 @@
+[
+    {
+        "id": "humanize",
+        "caption": "Humanize",
+        "command": "humanize"
+    },
+    {
+        "id": "titleize",
+        "caption": "Titleize",
+        "command": "titleize"
+    }
+]

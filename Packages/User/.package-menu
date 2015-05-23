@@ -1,0 +1,22 @@
+{
+        "id": "user",
+        "children":
+        [
+            {
+                "caption": "User",
+                "children":
+                [
+                    {
+                        "caption": "Inflectors",
+                        "children":
+                        [
+                            {
+                                "caption": "Humanize",
+                                "command": "humanize"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }

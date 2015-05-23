@@ -1,0 +1,1 @@
+{"description": "JSHint HTML files or other files that contains script tags. Requires node.js", "url": "https://github.com/bitbonsai/JSHint-Inline", "platforms": ["*"], "version": "2013.08.21.18.21.42", "sublime_text": "<3000", "dependencies": []}
