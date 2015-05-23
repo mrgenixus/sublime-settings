@@ -1,0 +1,5891 @@
+{
+	"folder_history":
+	[
+		"/home/bwest/Projects/cleverclerk/guest_client",
+		"/home/bwest/Projects/cleverclerk/platform",
+		"/home/bwest/Projects/wp-clever-clerk",
+		"/home/bwest/Projects/trophy-depot",
+		"/home/bwest/Projects/list-builder",
+		"/home/bwest/Projects/project-radius",
+		"/home/bwest/.rbenv/versions/1.9.3-p327/lib/ruby/gems/1.9.1/gems/rails-2.3.17",
+		"/home/bwest/.rbenv/versions/1.9.3-p327/lib/ruby/gems/1.9.1/gems/sanitize-3.1.2",
+		"/home/bwest/Projects/plantoeat",
+		"/home/bwest/Downloads",
+		"/home/bwest/Dropbox/Public/cv-2014",
+		"/home/bwest/Dropbox",
+		"/home/bwest/Projects/javascript-class",
+		"/home/bwest/Projects/js-class",
+		"/home/bwest/Projects/back-example",
+		"/home/bwest/.deskcon",
+		"/home/bwest/Projects/bustard",
+		"/home/bwest/Projects/backbone"
+	],
+	"last_window_id": 36,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"price",
+						"price_basis"
+					],
+					[
+						"data",
+						"data_attributes"
+					],
+					[
+						"pres",
+						"presenters"
+					],
+					[
+						"tou",
+						"tour_company"
+					],
+					[
+						"tour",
+						"tour_company"
+					],
+					[
+						"_",
+						"_enqueue"
+					],
+					[
+						"Clever",
+						"CleverClerk"
+					],
+					[
+						"stripe",
+						"stripe_helper"
+					],
+					[
+						"booking",
+						"booking_confirmation"
+					],
+					[
+						"expect",
+						"expectation"
+					],
+					[
+						"create",
+						"create_post_hash"
+					],
+					[
+						"wt",
+						"with_room_number"
+					],
+					[
+						"with",
+						"with_room_number"
+					],
+					[
+						"alert",
+						"alertTemplate"
+					],
+					[
+						"guest",
+						"guest_pay"
+					],
+					[
+						"Guest",
+						"Guest-Pay"
+					],
+					[
+						"guest_pay",
+						"guest_pay_date"
+					],
+					[
+						"cate",
+						"category_id"
+					],
+					[
+						"update",
+						"update_items"
+					],
+					[
+						"sho",
+						"shopping_list_items"
+					],
+					[
+						"shopping",
+						"shopping_list_item"
+					],
+					[
+						"end",
+						"end_of_last_period"
+					],
+					[
+						"st",
+						"save_start_date"
+					],
+					[
+						"can",
+						"candidate_line_items"
+					],
+					[
+						"user",
+						"user_is_owner"
+					],
+					[
+						"alternate",
+						"alternate_time"
+					],
+					[
+						"chec",
+						"checkbox-manager"
+					],
+					[
+						"Wi",
+						"widgetsManager"
+					],
+					[
+						"filter",
+						"filter_value"
+					],
+					[
+						"pr",
+						"propName"
+					],
+					[
+						"Backbone",
+						"BackboneObject"
+					],
+					[
+						"pare",
+						"parent_ids"
+					],
+					[
+						"parent",
+						"parent_items"
+					],
+					[
+						"child",
+						"child_item_id"
+					],
+					[
+						"sub",
+						"subView"
+					],
+					[
+						"note",
+						"notes"
+					],
+					[
+						"ed",
+						"editItem"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"AppMo",
+						"AppModelShowView"
+					],
+					[
+						"AppMode",
+						"AppModelEditView"
+					],
+					[
+						"app",
+						"app_model"
+					],
+					[
+						"App",
+						"AppModel"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 33.0,
+				"selected_items":
+				[
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"syfis",
+						"Set Syntax: Shell Script (fish)"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"list p",
+						"Package Control: List Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"synma",
+						"Set Syntax: Markdown"
+					],
+					[
+						"synjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"syn h",
+						"Set Syntax: HTML"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"synh",
+						"Set Syntax: HTML"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"synco",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"packe",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 467.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/users_index_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/configure_organization_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/tour_company_bookings_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/associate_tour_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/config/initializers/string.rb",
+				"/home/bwest/Projects/wp-clever-clerk/tours.html",
+				"/home/bwest/Projects/wp-clever-clerk/src/index.js",
+				"/home/bwest/Projects/wp-clever-clerk/src/presenters/base.js",
+				"/home/bwest/Projects/wp-clever-clerk/src/templates/tour.jade",
+				"/home/bwest/Projects/wp-clever-clerk/index.php",
+				"/home/bwest/Projects/wp-clever-clerk/readme.md",
+				"/home/bwest/Projects/wp-clever-clerk/package.json",
+				"/home/bwest/Projects/wp-clever-clerk/src/present.js",
+				"/home/bwest/Projects/wp-clever-clerk/.gitignore",
+				"/home/bwest/Projects/wp-clever-clerk/src/presenters/tours.js",
+				"/home/bwest/Projects/wp-clever-clerk/src/presenters/tour.js",
+				"/home/bwest/Projects/wp-clever-clerk/src/template.js",
+				"/home/bwest/Projects/wp-clever-clerk/build/cleverclerk.js",
+				"/home/bwest/Projects/cleverclerk/platform/spec/requests/bookings_api_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/requests/hotel_api_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/controllers/bookings_contoller_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/lib/services/create_booking.rb",
+				"/home/bwest/Projects/cleverclerk/platform/Gemfile",
+				"/home/bwest/Projects/cleverclerk/platform/spec/factories/booking.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/models/booking.rb",
+				"/home/bwest/Projects/cleverclerk/platform/config/initializers/big_decimal.rb",
+				"/home/bwest/Projects/cleverclerk/platform/Gemfile.lock",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_booking_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/confirmation_policy_message_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_pay_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/config/application.yml",
+				"/home/bwest/Projects/cleverclerk/platform/config/initializers/stripe.rb",
+				"/home/bwest/Projects/cleverclerk/platform/config/application.example.yml",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/bookings/_form.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/app/controllers/bookings_controller.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/support/booking_feature_helpers.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/spec_helper.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/requests/booking_status_api_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/requests/booking_api_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/policies/booking_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/models/booking_confirmation_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/mailers/clever_clerk_admin_mailer_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/helpers/booking_helper_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/user_dashboard_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/tour_company_notification_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/user_bookings_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/tour_company_decline_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/notify_guest_decline_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/hotel_admin_booking_notification_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_notify_confirmed_booking_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_confirm_booking_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_cancel_booked_tour_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_alternate_booking_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/generate_invoice_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/final_booking_notification_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/clever_clerk_booking_notification_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/booking_message_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/booking_confirmation_sidebar_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/helpers/application_helper.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/layouts/application.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/app/helpers/stripe_helper.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/policies/application_policy.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/policies/hotel_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/config/routes.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/policies/guest_pay_policy.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/models/hotel.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/models/guest_pay.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/controllers/guest_pays_controller.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/guest_pays/new.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/lib/cancellation.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/hotels/show.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/app/controllers/hotels_controller.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/guest_pays/_terms.md",
+				"/home/bwest/Projects/cleverclerk/platform/lib/c_c_markdown.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/hotels/_form.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/app/policies/hotel_policy.rb",
+				"/home/bwest/Projects/project-radius/config/database.yml",
+				"/home/bwest/Projects/plantoeat/README.md",
+				"/home/bwest/Projects/plantoeat/lib/app_util.rb",
+				"/home/bwest/Projects/plantoeat/config/initializers/methods.rb",
+				"/home/bwest/Projects/plantoeat/Gemfile",
+				"/home/bwest/Projects/plantoeat/app/models/shopping_list.rb",
+				"/home/bwest/Projects/plantoeat/spec/features/recipes/add_spec.rb",
+				"/home/bwest/Projects/plantoeat/spec/support/factories/base.rb",
+				"/home/bwest/Projects/plantoeat/spec/support/factories/grocery_category.rb",
+				"/home/bwest/Projects/plantoeat/app/models/recipe_ingredient.rb",
+				"/home/bwest/Projects/plantoeat/app/controllers/recipes_controller.rb",
+				"/home/bwest/Projects/plantoeat/app/models/recipe.rb",
+				"/home/bwest/Projects/plantoeat/app/controllers/shopping_lists_controller.rb",
+				"/home/bwest/Projects/plantoeat/app/models/ingredient.rb",
+				"/home/bwest/Projects/plantoeat/spec/controllers/shopping_lists/add_ingredient_spec.rb",
+				"/home/bwest/Projects/plantoeat/app/models/shopping_list_item.rb",
+				"/home/bwest/Projects/plantoeat/app/controllers/planner_controller.rb",
+				"/home/bwest/Projects/plantoeat/app/controllers/grocery_categories_controller.rb",
+				"/home/bwest/Projects/plantoeat/app/models/grocery_category.rb",
+				"/home/bwest/Projects/plantoeat/app/controllers/ingredients_controller.rb",
+				"/home/bwest/Projects/plantoeat/db/schema.rb",
+				"/home/bwest/Projects/plantoeat/config/initializers/session_store.rb",
+				"/home/bwest/Projects/plantoeat/bundle",
+				"/home/bwest/Projects/plantoeat/open",
+				"/home/bwest/Projects/plantoeat/sanitize",
+				"/home/bwest/Projects/plantoeat/Gemfile.lock",
+				"/home/bwest/Projects/plantoeat/app/models/user.rb",
+				"/home/bwest/Projects/plantoeat/app/views/recipes/_form.html.erb",
+				"/home/bwest/Projects/plantoeat/app/views/photos/_add_photo.html.erb",
+				"/home/bwest/Projects/plantoeat/spec/spec_helper.rb",
+				"/home/bwest/Projects/plantoeat/config/database.yml",
+				"/home/bwest/.config/fish/config.fish",
+				"/home/bwest/.config/fisish",
+				"/home/bwest/Projects/plantoeat/spec/support/factories/user.rb",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/templates/nav.jade",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/router.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/config.json",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/views/hotel/show.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/clever_clerk/index.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/assets/css/cleverclerk/main.less",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/templates/assets/menu.jade",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/views/assets/menu.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/templates/hotels/show.jade",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/presenters/hotel.js",
+				"/home/bwest/Projects/cleverclerk/platform/app/controllers/invoices_controller.rb",
+				"/home/bwest/Projects/cleverclerk/platform/db/schema.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/invoices/new.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/app/models/invoice.rb",
+				"/home/bwest/Downloads/eula.txt",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/api/v1/bookings/item.json.rabl",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/api/v1/bookings/index.json.rabl",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/api/v1/bookings/show.json.rabl"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"-node_modules/, -cleverclerk.min.js",
+					"-node_modules/",
+					"",
+					"*.js",
+					"",
+					"-node_modules/, -public/, -tasks/, -models/",
+					"-node_modules/, -public/, -vendor/, -tasks/, -models/",
+					"-node_modules/, -public/, -vendor/, -tasks/",
+					"-node_modules/, -public/, -vendor/",
+					"-node_modules/, -public/",
+					"-node_modules/, -public",
+					"-node_modules/",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"contains.+company.name",
+					"xpath.+contains.+#\\{user",
+					"xpath.+contains.+#",
+					"xpath.+contains",
+					"contains",
+					"tour_date",
+					"\"hello\"",
+					"newArr",
+					"presentspec[key]",
+					"jquery",
+					"[0]",
+					"_enqueue",
+					"dvi",
+					"Money",
+					"pry",
+					"'not_a_real_token'",
+					"stripe_helper",
+					"conf",
+					"room",
+					"Stripe",
+					"STRIPE_KEY",
+					"booking.tour",
+					"booking.hotel",
+					"create :booking",
+					"build(:booking",
+					"create(:booking",
+					"build(:booking,",
+					"create :booking",
+					"create :",
+					"save",
+					"def cre",
+					"Make",
+					"Card Number",
+					"card number",
+					"label for",
+					"cvc",
+					"exp-month",
+					"cvc",
+					"number",
+					"span",
+					"form-row",
+					"markdown",
+					"enabled",
+					"Generate Invoice",
+					"hotels",
+					"describe",
+					"amount_start",
+					"title",
+					":active",
+					"active",
+					"ingredient",
+					"save_ingredient",
+					"(INSERT.+ingredients|Ingredient\\.(new|create))",
+					"INSERT.+ingredients",
+					"similar_titles",
+					"similar_ingredient_ids_from_title",
+					"similar_ingredient_ids",
+					"similar_shopping_list_items",
+					"grocery_categories",
+					"shopping_list_item",
+					"binding.pry",
+					"b",
+					"user",
+					"delete_items",
+					"removed",
+					"pry",
+					"shopping_list_user",
+					"amount",
+					":",
+					"title: ",
+					":",
+					"title: ",
+					":",
+					"check_values",
+					"before",
+					"SanitizeHelper",
+					"ActionController::Base[\\n.]+(include|extend)",
+					"ActionController::Base[\\n.]+include",
+					"ActionController::Base.+include",
+					"ActionController::Base.include",
+					"ActionController::Base.extend",
+					"ActionController.extend",
+					"ActionController\\.include",
+					"ActionController",
+					"def sanitize",
+					"sanitize",
+					"helpers",
+					"def sanitize",
+					"sanitize_attributes",
+					"create_items",
+					"def create_items",
+					".map(&:id).join(',')",
+					"delete_items",
+					"pry",
+					"']\n",
+					"delete_items",
+					"title",
+					"\n",
+					"photo",
+					"add_photo",
+					"photo_wrap",
+					"root",
+					"                            ",
+					"\\.hidden",
+					"hotel",
+					"menuAsset",
+					"(layer|level)\\s*\\:\\s*\\d",
+					"layer|level\\s*\\:\\s*\\d",
+					"layer|level\\s*\\\\:\\s*\\d",
+					"layer|level\\s*:\\s*\\d",
+					"layer|level\\s*\\:\\s*\\d",
+					"layer|level\\s+\\:",
+					"save_start_date",
+					"Generate",
+					"tour_date",
+					"user_auth_token",
+					"expect_[^i]",
+					"expect_[ae]",
+					"expect_",
+					"alternate_time",
+					"false",
+					"enable",
+					"getFilteredObjects()",
+					"prop, value",
+					"' + '",
+					"disable",
+					"enable",
+					"disable"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"  "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 118.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"app/views/bookings/index.html.erb",
+						"app/views/bookings/index.html.erb"
+					],
+					[
+						"configure_organization_spec.rb",
+						"spec/features/configure_organization_spec.rb"
+					],
+					[
+						"lib/services/create_booking.rb",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"associate_tour_spec.rb",
+						"spec/features/associate_tour_spec.rb"
+					],
+					[
+						"sting",
+						"config/initializers/string.rb"
+					],
+					[
+						"guest_pay",
+						"app/models/guest_pay.rb"
+					],
+					[
+						"hotel_tour",
+						"app/models/hotel_tour.rb"
+					],
+					[
+						"booking",
+						"spec/factories/booking.rb"
+					],
+					[
+						"facbooking",
+						"spec/factories/booking.rb"
+					],
+					[
+						"bookings_contoller_spec.rb",
+						"spec/controllers/bookings_contoller_spec.rb"
+					],
+					[
+						"createbooking",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"bookform",
+						"app/views/bookings/_form.html.erb"
+					],
+					[
+						"featur",
+						"spec/support/booking_feature_helpers.rb"
+					],
+					[
+						"libcreatbookin",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"hotpol",
+						"app/policies/hotel_policy.rb"
+					],
+					[
+						"tourpricing",
+						"spec/features/tour_pricing_spec.rb"
+					],
+					[
+						"viinv",
+						"spec/features/view_invoice_spec.rb"
+					],
+					[
+						"factline",
+						"spec/factories/line_item.rb"
+					],
+					[
+						"bookingconapi",
+						"spec/requests/booking_confirmations_api_spec.rb"
+					],
+					[
+						"apihotels",
+						"app/controllers/api/v1/hotels_controller.rb"
+					],
+					[
+						"hotel_api_",
+						"spec/requests/hotel_api_spec.rb"
+					],
+					[
+						"bookings_ap",
+						"spec/requests/bookings_api_spec.rb"
+					],
+					[
+						"_form",
+						"app/views/bookings/_form.html.erb"
+					],
+					[
+						"creabookin",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"modbookin",
+						"app/models/booking.rb"
+					],
+					[
+						"creatbooking",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"factbook",
+						"spec/factories/booking.rb"
+					],
+					[
+						"guestbooking",
+						"spec/features/guest_booking_spec.rb"
+					],
+					[
+						"guespay",
+						"spec/features/guest_pay_spec.rb"
+					],
+					[
+						"booking_con",
+						"app/models/booking_confirmation.rb"
+					],
+					[
+						"libcreatebookingcon",
+						"lib/services/create_booking_confirmation.rb"
+					],
+					[
+						"booking_confirmations_contr",
+						"app/controllers/booking_confirmations_controller.rb"
+					],
+					[
+						"createbooki",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"gemfile",
+						"Gemfile.lock"
+					],
+					[
+						"modbook",
+						"app/models/booking.rb"
+					],
+					[
+						"factb",
+						"spec/factories/booking.rb"
+					],
+					[
+						"factbookin",
+						"spec/factories/booking.rb"
+					],
+					[
+						"factbooking",
+						"spec/factories/booking.rb"
+					],
+					[
+						"libboking",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"spec_help",
+						"spec/spec_helper.rb"
+					],
+					[
+						"gemfile.",
+						"Gemfile.lock"
+					],
+					[
+						"boking",
+						"app/models/booking.rb"
+					],
+					[
+						"bookfeh",
+						"spec/support/booking_feature_helpers.rb"
+					],
+					[
+						"bookingcon",
+						"app/controllers/bookings_controller.rb"
+					],
+					[
+						"apphtl",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"apphe",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"bookingform",
+						"app/views/bookings/_form.html.erb"
+					],
+					[
+						"apphelp",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"apphtml",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"hotelform",
+						"app/views/hotels/_form.html.erb"
+					],
+					[
+						"cance",
+						"lib/cancellation.rb"
+					],
+					[
+						"modho",
+						"app/models/hotel.rb"
+					],
+					[
+						"polhotelspec",
+						"spec/policies/hotel_spec.rb"
+					],
+					[
+						"appp",
+						"app/policies/application_policy.rb"
+					],
+					[
+						"hotelscontr",
+						"app/controllers/hotels_controller.rb"
+					],
+					[
+						"hotelpol",
+						"app/policies/hotel_policy.rb"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"sche",
+						"db/schema.rb"
+					],
+					[
+						"shoppin",
+						"app/controllers/shopping_lists_controller.rb"
+					],
+					[
+						"addin",
+						"spec/controllers/shopping_lists/add_ingredient_spec.rb"
+					],
+					[
+						"modingr",
+						"app/models/ingredient.rb"
+					],
+					[
+						"recontro",
+						"app/controllers/recipes_controller.rb"
+					],
+					[
+						"ingre",
+						"app/models/ingredient.rb"
+					],
+					[
+						"schema",
+						"db/schema.rb"
+					],
+					[
+						"read",
+						"README.md"
+					],
+					[
+						"shoppinglistitem",
+						"app/models/shopping_list_item.rb"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"shopcontrol",
+						"app/controllers/shopping_lists_controller.rb"
+					],
+					[
+						"shopping",
+						"app/controllers/shopping_lists_controller.rb"
+					],
+					[
+						"shoppinglistit",
+						"app/models/shopping_list_item.rb"
+					],
+					[
+						"nav",
+						"app/templates/nav.jade"
+					],
+					[
+						"con",
+						"app/config.json"
+					],
+					[
+						"hotelshow",
+						"app/templates/hotels/show.jade"
+					],
+					[
+						"config",
+						"app/config.json"
+					],
+					[
+						"prehotel",
+						"app/presenters/hotel.js"
+					],
+					[
+						"ccind",
+						"app/clever_clerk/index.js"
+					],
+					[
+						"modinvoice",
+						"app/models/invoice.rb"
+					],
+					[
+						"specinv",
+						"spec/features/generate_invoice_spec.rb"
+					],
+					[
+						"booking.r",
+						"app/models/booking.rb"
+					],
+					[
+						"invoicesnew",
+						"app/views/invoices/new.html.erb"
+					],
+					[
+						"invoiccontr",
+						"app/controllers/invoices_controller.rb"
+					],
+					[
+						"apppol",
+						"app/policies/application_policy.rb"
+					],
+					[
+						"bookingpo",
+						"app/policies/booking_policy.rb"
+					],
+					[
+						"bookingshorab",
+						"app/views/api/v1/bookings/show.json.rabl"
+					],
+					[
+						"apibookco",
+						"app/controllers/api/v1/bookings_controller.rb"
+					],
+					[
+						"specstatusap",
+						"spec/requests/booking_status_api_spec.rb"
+					],
+					[
+						"guardf",
+						"Guardfile"
+					],
+					[
+						"index.js",
+						"src/app/index.js"
+					],
+					[
+						"grunt",
+						"Gruntfile.coffee"
+					],
+					[
+						"packa",
+						"package.json"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 253.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"price",
+						"price_basis"
+					],
+					[
+						"data",
+						"data_attributes"
+					],
+					[
+						"pres",
+						"presenters"
+					],
+					[
+						"tou",
+						"tour_company"
+					],
+					[
+						"tour",
+						"tour_company"
+					],
+					[
+						"_",
+						"_enqueue"
+					],
+					[
+						"Clever",
+						"CleverClerk"
+					],
+					[
+						"stripe",
+						"stripe_helper"
+					],
+					[
+						"booking",
+						"booking_confirmation"
+					],
+					[
+						"expect",
+						"expectation"
+					],
+					[
+						"create",
+						"create_post_hash"
+					],
+					[
+						"wt",
+						"with_room_number"
+					],
+					[
+						"with",
+						"with_room_number"
+					],
+					[
+						"alert",
+						"alertTemplate"
+					],
+					[
+						"guest",
+						"guest_pay"
+					],
+					[
+						"Guest",
+						"Guest-Pay"
+					],
+					[
+						"guest_pay",
+						"guest_pay_date"
+					],
+					[
+						"cate",
+						"category_id"
+					],
+					[
+						"update",
+						"update_items"
+					],
+					[
+						"sho",
+						"shopping_list_items"
+					],
+					[
+						"shopping",
+						"shopping_list_item"
+					],
+					[
+						"end",
+						"end_of_last_period"
+					],
+					[
+						"st",
+						"save_start_date"
+					],
+					[
+						"can",
+						"candidate_line_items"
+					],
+					[
+						"user",
+						"user_is_owner"
+					],
+					[
+						"alternate",
+						"alternate_time"
+					],
+					[
+						"chec",
+						"checkbox-manager"
+					],
+					[
+						"Wi",
+						"widgetsManager"
+					],
+					[
+						"filter",
+						"filter_value"
+					],
+					[
+						"pr",
+						"propName"
+					],
+					[
+						"Backbone",
+						"BackboneObject"
+					],
+					[
+						"pare",
+						"parent_ids"
+					],
+					[
+						"parent",
+						"parent_items"
+					],
+					[
+						"child",
+						"child_item_id"
+					],
+					[
+						"sub",
+						"subView"
+					],
+					[
+						"note",
+						"notes"
+					],
+					[
+						"ed",
+						"editItem"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"AppMo",
+						"AppModelShowView"
+					],
+					[
+						"AppMode",
+						"AppModelEditView"
+					],
+					[
+						"app",
+						"app_model"
+					],
+					[
+						"App",
+						"AppModel"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 96.0,
+				"selected_items":
+				[
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"syfis",
+						"Set Syntax: Shell Script (fish)"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"list p",
+						"Package Control: List Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"synma",
+						"Set Syntax: Markdown"
+					],
+					[
+						"synjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"syn h",
+						"Set Syntax: HTML"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"synh",
+						"Set Syntax: HTML"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"synco",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"packe",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 467.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/bwest/Projects/wp-clever-clerk/tours.html",
+				"/home/bwest/Projects/wp-clever-clerk/src/index.js",
+				"/home/bwest/Projects/wp-clever-clerk/src/presenters/base.js",
+				"/home/bwest/Projects/wp-clever-clerk/src/templates/tour.jade",
+				"/home/bwest/Projects/wp-clever-clerk/index.php",
+				"/home/bwest/Projects/wp-clever-clerk/readme.md",
+				"/home/bwest/Projects/wp-clever-clerk/package.json",
+				"/home/bwest/Projects/wp-clever-clerk/src/present.js",
+				"/home/bwest/Projects/wp-clever-clerk/.gitignore",
+				"/home/bwest/Projects/wp-clever-clerk/src/presenters/tours.js",
+				"/home/bwest/Projects/wp-clever-clerk/src/presenters/tour.js",
+				"/home/bwest/Projects/wp-clever-clerk/src/template.js",
+				"/home/bwest/Projects/wp-clever-clerk/build/cleverclerk.js",
+				"/home/bwest/Projects/cleverclerk/platform/spec/requests/bookings_api_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/requests/hotel_api_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/controllers/bookings_contoller_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/lib/services/create_booking.rb",
+				"/home/bwest/Projects/cleverclerk/platform/Gemfile",
+				"/home/bwest/Projects/cleverclerk/platform/spec/factories/booking.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/models/booking.rb",
+				"/home/bwest/Projects/cleverclerk/platform/config/initializers/big_decimal.rb",
+				"/home/bwest/Projects/cleverclerk/platform/Gemfile.lock",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_booking_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/confirmation_policy_message_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_pay_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/config/application.yml",
+				"/home/bwest/Projects/cleverclerk/platform/config/initializers/stripe.rb",
+				"/home/bwest/Projects/cleverclerk/platform/config/application.example.yml",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/bookings/_form.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/app/controllers/bookings_controller.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/support/booking_feature_helpers.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/spec_helper.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/requests/booking_status_api_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/requests/booking_api_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/policies/booking_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/models/booking_confirmation_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/mailers/clever_clerk_admin_mailer_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/helpers/booking_helper_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/user_dashboard_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/tour_company_notification_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/user_bookings_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/tour_company_decline_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/tour_company_bookings_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/notify_guest_decline_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/hotel_admin_booking_notification_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_notify_confirmed_booking_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_confirm_booking_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_cancel_booked_tour_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_alternate_booking_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/generate_invoice_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/final_booking_notification_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/clever_clerk_booking_notification_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/booking_message_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/booking_confirmation_sidebar_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/helpers/application_helper.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/layouts/application.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/app/helpers/stripe_helper.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/policies/application_policy.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/policies/hotel_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/config/routes.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/policies/guest_pay_policy.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/models/hotel.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/models/guest_pay.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/controllers/guest_pays_controller.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/guest_pays/new.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/lib/cancellation.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/hotels/show.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/app/controllers/hotels_controller.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/guest_pays/_terms.md",
+				"/home/bwest/Projects/cleverclerk/platform/lib/c_c_markdown.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/hotels/_form.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/app/policies/hotel_policy.rb",
+				"/home/bwest/Projects/project-radius/config/database.yml",
+				"/home/bwest/Projects/plantoeat/README.md",
+				"/home/bwest/Projects/plantoeat/lib/app_util.rb",
+				"/home/bwest/Projects/plantoeat/config/initializers/methods.rb",
+				"/home/bwest/Projects/plantoeat/Gemfile",
+				"/home/bwest/Projects/plantoeat/app/models/shopping_list.rb",
+				"/home/bwest/Projects/plantoeat/spec/features/recipes/add_spec.rb",
+				"/home/bwest/Projects/plantoeat/spec/support/factories/base.rb",
+				"/home/bwest/Projects/plantoeat/spec/support/factories/grocery_category.rb",
+				"/home/bwest/Projects/plantoeat/app/models/recipe_ingredient.rb",
+				"/home/bwest/Projects/plantoeat/app/controllers/recipes_controller.rb",
+				"/home/bwest/Projects/plantoeat/app/models/recipe.rb",
+				"/home/bwest/Projects/plantoeat/app/controllers/shopping_lists_controller.rb",
+				"/home/bwest/Projects/plantoeat/app/models/ingredient.rb",
+				"/home/bwest/Projects/plantoeat/spec/controllers/shopping_lists/add_ingredient_spec.rb",
+				"/home/bwest/Projects/plantoeat/app/models/shopping_list_item.rb",
+				"/home/bwest/Projects/plantoeat/app/controllers/planner_controller.rb",
+				"/home/bwest/Projects/plantoeat/app/controllers/grocery_categories_controller.rb",
+				"/home/bwest/Projects/plantoeat/app/models/grocery_category.rb",
+				"/home/bwest/Projects/plantoeat/app/controllers/ingredients_controller.rb",
+				"/home/bwest/Projects/plantoeat/db/schema.rb",
+				"/home/bwest/Projects/plantoeat/config/initializers/session_store.rb",
+				"/home/bwest/Projects/plantoeat/bundle",
+				"/home/bwest/Projects/plantoeat/open",
+				"/home/bwest/Projects/plantoeat/sanitize",
+				"/home/bwest/Projects/plantoeat/Gemfile.lock",
+				"/home/bwest/Projects/plantoeat/app/models/user.rb",
+				"/home/bwest/Projects/plantoeat/app/views/recipes/_form.html.erb",
+				"/home/bwest/Projects/plantoeat/app/views/photos/_add_photo.html.erb",
+				"/home/bwest/Projects/plantoeat/spec/spec_helper.rb",
+				"/home/bwest/Projects/plantoeat/config/database.yml",
+				"/home/bwest/.config/fish/config.fish",
+				"/home/bwest/.config/fisish",
+				"/home/bwest/Projects/plantoeat/spec/support/factories/user.rb",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/templates/nav.jade",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/router.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/config.json",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/views/hotel/show.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/clever_clerk/index.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/assets/css/cleverclerk/main.less",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/templates/assets/menu.jade",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/views/assets/menu.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/templates/hotels/show.jade",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/presenters/hotel.js",
+				"/home/bwest/Projects/cleverclerk/platform/app/controllers/invoices_controller.rb",
+				"/home/bwest/Projects/cleverclerk/platform/db/schema.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/invoices/new.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/app/models/invoice.rb",
+				"/home/bwest/Downloads/eula.txt",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/api/v1/bookings/item.json.rabl",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/api/v1/bookings/index.json.rabl",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/api/v1/bookings/show.json.rabl",
+				"/home/bwest/Projects/cleverclerk/platform/app/controllers/api/v1/bookings_controller.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/policies/booking_policy.rb",
+				"/home/bwest/Projects/cleverclerk/platform/config/database.yml",
+				"/home/bwest/Downloads/application.yml"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"-node_modules/, -cleverclerk.min.js",
+					"-node_modules/",
+					"",
+					"*.js",
+					"",
+					"-node_modules/, -public/, -tasks/, -models/",
+					"-node_modules/, -public/, -vendor/, -tasks/, -models/",
+					"-node_modules/, -public/, -vendor/, -tasks/",
+					"-node_modules/, -public/, -vendor/",
+					"-node_modules/, -public/",
+					"-node_modules/, -public",
+					"-node_modules/",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"\"hello\"",
+					"newArr",
+					"presentspec[key]",
+					"jquery",
+					"[0]",
+					"_enqueue",
+					"dvi",
+					"Money",
+					"pry",
+					"'not_a_real_token'",
+					"stripe_helper",
+					"conf",
+					"room",
+					"Stripe",
+					"STRIPE_KEY",
+					"booking.tour",
+					"booking.hotel",
+					"create :booking",
+					"build(:booking",
+					"create(:booking",
+					"build(:booking,",
+					"create :booking",
+					"create :",
+					"save",
+					"def cre",
+					"Make",
+					"Card Number",
+					"card number",
+					"label for",
+					"cvc",
+					"exp-month",
+					"cvc",
+					"number",
+					"span",
+					"form-row",
+					"markdown",
+					"enabled",
+					"Generate Invoice",
+					"hotels",
+					"describe",
+					"amount_start",
+					"title",
+					":active",
+					"active",
+					"ingredient",
+					"save_ingredient",
+					"(INSERT.+ingredients|Ingredient\\.(new|create))",
+					"INSERT.+ingredients",
+					"similar_titles",
+					"similar_ingredient_ids_from_title",
+					"similar_ingredient_ids",
+					"similar_shopping_list_items",
+					"grocery_categories",
+					"shopping_list_item",
+					"binding.pry",
+					"b",
+					"user",
+					"delete_items",
+					"removed",
+					"pry",
+					"shopping_list_user",
+					"amount",
+					":",
+					"title: ",
+					":",
+					"title: ",
+					":",
+					"check_values",
+					"before",
+					"SanitizeHelper",
+					"ActionController::Base[\\n.]+(include|extend)",
+					"ActionController::Base[\\n.]+include",
+					"ActionController::Base.+include",
+					"ActionController::Base.include",
+					"ActionController::Base.extend",
+					"ActionController.extend",
+					"ActionController\\.include",
+					"ActionController",
+					"def sanitize",
+					"sanitize",
+					"helpers",
+					"def sanitize",
+					"sanitize_attributes",
+					"create_items",
+					"def create_items",
+					".map(&:id).join(',')",
+					"delete_items",
+					"pry",
+					"']\n",
+					"delete_items",
+					"title",
+					"\n",
+					"photo",
+					"add_photo",
+					"photo_wrap",
+					"root",
+					"                            ",
+					"\\.hidden",
+					"hotel",
+					"menuAsset",
+					"(layer|level)\\s*\\:\\s*\\d",
+					"layer|level\\s*\\:\\s*\\d",
+					"layer|level\\s*\\\\:\\s*\\d",
+					"layer|level\\s*:\\s*\\d",
+					"layer|level\\s*\\:\\s*\\d",
+					"layer|level\\s+\\:",
+					"save_start_date",
+					"Generate",
+					"tour_date",
+					"user_auth_token",
+					"expect_[^i]",
+					"expect_[ae]",
+					"expect_",
+					"alternate_time",
+					"false",
+					"enable",
+					"getFilteredObjects()",
+					"prop, value",
+					"' + '",
+					"disable",
+					"enable",
+					"disable",
+					"_will_change",
+					"old_",
+					"increase_item_cost",
+					"item_id",
+					"component",
+					"load_paths"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"  "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/bwest/Projects/wp-clever-clerk"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.676364727055,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 118.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,4480,1440",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"featur",
+						"spec/support/booking_feature_helpers.rb"
+					],
+					[
+						"libcreatbookin",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"hotpol",
+						"app/policies/hotel_policy.rb"
+					],
+					[
+						"tourpricing",
+						"spec/features/tour_pricing_spec.rb"
+					],
+					[
+						"viinv",
+						"spec/features/view_invoice_spec.rb"
+					],
+					[
+						"factline",
+						"spec/factories/line_item.rb"
+					],
+					[
+						"bookingconapi",
+						"spec/requests/booking_confirmations_api_spec.rb"
+					],
+					[
+						"apihotels",
+						"app/controllers/api/v1/hotels_controller.rb"
+					],
+					[
+						"hotel_api_",
+						"spec/requests/hotel_api_spec.rb"
+					],
+					[
+						"bookings_ap",
+						"spec/requests/bookings_api_spec.rb"
+					],
+					[
+						"_form",
+						"app/views/bookings/_form.html.erb"
+					],
+					[
+						"creabookin",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"modbookin",
+						"app/models/booking.rb"
+					],
+					[
+						"creatbooking",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"factbook",
+						"spec/factories/booking.rb"
+					],
+					[
+						"guestbooking",
+						"spec/features/guest_booking_spec.rb"
+					],
+					[
+						"guespay",
+						"spec/features/guest_pay_spec.rb"
+					],
+					[
+						"booking_con",
+						"app/models/booking_confirmation.rb"
+					],
+					[
+						"libcreatebookingcon",
+						"lib/services/create_booking_confirmation.rb"
+					],
+					[
+						"booking_confirmations_contr",
+						"app/controllers/booking_confirmations_controller.rb"
+					],
+					[
+						"createbooki",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"gemfile",
+						"Gemfile.lock"
+					],
+					[
+						"modbook",
+						"app/models/booking.rb"
+					],
+					[
+						"factb",
+						"spec/factories/booking.rb"
+					],
+					[
+						"factbookin",
+						"spec/factories/booking.rb"
+					],
+					[
+						"factbooking",
+						"spec/factories/booking.rb"
+					],
+					[
+						"libboking",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"spec_help",
+						"spec/spec_helper.rb"
+					],
+					[
+						"gemfile.",
+						"Gemfile.lock"
+					],
+					[
+						"boking",
+						"app/models/booking.rb"
+					],
+					[
+						"booking",
+						"app/models/booking.rb"
+					],
+					[
+						"bookfeh",
+						"spec/support/booking_feature_helpers.rb"
+					],
+					[
+						"bookingcon",
+						"app/controllers/bookings_controller.rb"
+					],
+					[
+						"apphtl",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"apphe",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"bookingform",
+						"app/views/bookings/_form.html.erb"
+					],
+					[
+						"apphelp",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"apphtml",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"hotelform",
+						"app/views/hotels/_form.html.erb"
+					],
+					[
+						"cance",
+						"lib/cancellation.rb"
+					],
+					[
+						"modho",
+						"app/models/hotel.rb"
+					],
+					[
+						"polhotelspec",
+						"spec/policies/hotel_spec.rb"
+					],
+					[
+						"appp",
+						"app/policies/application_policy.rb"
+					],
+					[
+						"hotelscontr",
+						"app/controllers/hotels_controller.rb"
+					],
+					[
+						"hotelpol",
+						"app/policies/hotel_policy.rb"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"sche",
+						"db/schema.rb"
+					],
+					[
+						"shoppin",
+						"app/controllers/shopping_lists_controller.rb"
+					],
+					[
+						"addin",
+						"spec/controllers/shopping_lists/add_ingredient_spec.rb"
+					],
+					[
+						"modingr",
+						"app/models/ingredient.rb"
+					],
+					[
+						"recontro",
+						"app/controllers/recipes_controller.rb"
+					],
+					[
+						"ingre",
+						"app/models/ingredient.rb"
+					],
+					[
+						"schema",
+						"db/schema.rb"
+					],
+					[
+						"read",
+						"README.md"
+					],
+					[
+						"shoppinglistitem",
+						"app/models/shopping_list_item.rb"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"shopcontrol",
+						"app/controllers/shopping_lists_controller.rb"
+					],
+					[
+						"shopping",
+						"app/controllers/shopping_lists_controller.rb"
+					],
+					[
+						"shoppinglistit",
+						"app/models/shopping_list_item.rb"
+					],
+					[
+						"nav",
+						"app/templates/nav.jade"
+					],
+					[
+						"con",
+						"app/config.json"
+					],
+					[
+						"hotelshow",
+						"app/templates/hotels/show.jade"
+					],
+					[
+						"config",
+						"app/config.json"
+					],
+					[
+						"prehotel",
+						"app/presenters/hotel.js"
+					],
+					[
+						"ccind",
+						"app/clever_clerk/index.js"
+					],
+					[
+						"modinvoice",
+						"app/models/invoice.rb"
+					],
+					[
+						"specinv",
+						"spec/features/generate_invoice_spec.rb"
+					],
+					[
+						"booking.r",
+						"app/models/booking.rb"
+					],
+					[
+						"invoicesnew",
+						"app/views/invoices/new.html.erb"
+					],
+					[
+						"invoiccontr",
+						"app/controllers/invoices_controller.rb"
+					],
+					[
+						"apppol",
+						"app/policies/application_policy.rb"
+					],
+					[
+						"bookingpo",
+						"app/policies/booking_policy.rb"
+					],
+					[
+						"bookingshorab",
+						"app/views/api/v1/bookings/show.json.rabl"
+					],
+					[
+						"apibookco",
+						"app/controllers/api/v1/bookings_controller.rb"
+					],
+					[
+						"specstatusap",
+						"spec/requests/booking_status_api_spec.rb"
+					],
+					[
+						"guardf",
+						"Guardfile"
+					],
+					[
+						"index.js",
+						"src/app/index.js"
+					],
+					[
+						"grunt",
+						"Gruntfile.coffee"
+					],
+					[
+						"packa",
+						"package.json"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 253.0,
+			"status_bar_visible": true,
+			"window_id": 34,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"price",
+						"price_basis"
+					],
+					[
+						"data",
+						"data_attributes"
+					],
+					[
+						"pres",
+						"presenters"
+					],
+					[
+						"tou",
+						"tour_company"
+					],
+					[
+						"tour",
+						"tour_company"
+					],
+					[
+						"_",
+						"_enqueue"
+					],
+					[
+						"Clever",
+						"CleverClerk"
+					],
+					[
+						"stripe",
+						"stripe_helper"
+					],
+					[
+						"booking",
+						"booking_confirmation"
+					],
+					[
+						"expect",
+						"expectation"
+					],
+					[
+						"create",
+						"create_post_hash"
+					],
+					[
+						"wt",
+						"with_room_number"
+					],
+					[
+						"with",
+						"with_room_number"
+					],
+					[
+						"alert",
+						"alertTemplate"
+					],
+					[
+						"guest",
+						"guest_pay"
+					],
+					[
+						"Guest",
+						"Guest-Pay"
+					],
+					[
+						"guest_pay",
+						"guest_pay_date"
+					],
+					[
+						"cate",
+						"category_id"
+					],
+					[
+						"update",
+						"update_items"
+					],
+					[
+						"sho",
+						"shopping_list_items"
+					],
+					[
+						"shopping",
+						"shopping_list_item"
+					],
+					[
+						"end",
+						"end_of_last_period"
+					],
+					[
+						"st",
+						"save_start_date"
+					],
+					[
+						"can",
+						"candidate_line_items"
+					],
+					[
+						"user",
+						"user_is_owner"
+					],
+					[
+						"alternate",
+						"alternate_time"
+					],
+					[
+						"chec",
+						"checkbox-manager"
+					],
+					[
+						"Wi",
+						"widgetsManager"
+					],
+					[
+						"filter",
+						"filter_value"
+					],
+					[
+						"pr",
+						"propName"
+					],
+					[
+						"Backbone",
+						"BackboneObject"
+					],
+					[
+						"pare",
+						"parent_ids"
+					],
+					[
+						"parent",
+						"parent_items"
+					],
+					[
+						"child",
+						"child_item_id"
+					],
+					[
+						"sub",
+						"subView"
+					],
+					[
+						"note",
+						"notes"
+					],
+					[
+						"ed",
+						"editItem"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"AppMo",
+						"AppModelShowView"
+					],
+					[
+						"AppMode",
+						"AppModelEditView"
+					],
+					[
+						"app",
+						"app_model"
+					],
+					[
+						"App",
+						"AppModel"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/bwest/Projects/cleverclerk/platform/app/views/bookings/_form.html.erb",
+					"settings":
+					{
+						"buffer_size": 7058,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bwest/Projects/cleverclerk/platform/spec/controllers/bookings_contoller_spec.rb",
+					"settings":
+					{
+						"buffer_size": 2030,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bwest/Projects/cleverclerk/platform/lib/services/create_booking.rb",
+					"settings":
+					{
+						"buffer_size": 1053,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bwest/Projects/cleverclerk/platform/app/models/booking.rb",
+					"settings":
+					{
+						"buffer_size": 7338,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bwest/Projects/cleverclerk/platform/spec/factories/booking.rb",
+					"settings":
+					{
+						"buffer_size": 3240,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bwest/Projects/cleverclerk/platform/app/models/hotel_tour.rb",
+					"settings":
+					{
+						"buffer_size": 641,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bwest/Projects/cleverclerk/platform/app/models/guest_pay.rb",
+					"settings":
+					{
+						"buffer_size": 765,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bwest/Projects/cleverclerk/platform/config/initializers/string.rb",
+					"settings":
+					{
+						"buffer_size": 74,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bwest/Projects/cleverclerk/platform/spec/features/associate_tour_spec.rb",
+					"settings":
+					{
+						"buffer_size": 1754,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bwest/Projects/cleverclerk/platform/spec/features/configure_organization_spec.rb",
+					"settings":
+					{
+						"buffer_size": 5198,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Searching 783 files for \"contains.+company.name\" (regex, case sensitive)\n\n/home/bwest/Projects/cleverclerk/platform/spec/features/configure_organization_spec.rb:\n  134          scenario \"adds a tour_company to organization\" do\n  135            within(:xpath, \"//section[h3[contains(.,'Add User')]]\") do\n  136:             within(:xpath, \"//tr[td[contains(.,'#{tour_company.name.quote}')]]\") do\n  137                click_on \"Add\"\n  138              end\n  ...\n  149            scenario \"removes the tour_company from the organization\" do\n  150              within(:xpath, \"//section[h3[contains(.,'Organization tour companies')]]\") do\n  151:               within(:xpath, \"//tr[td[contains(.,'#{tour_company.name.quote.quote}')]]\") do\n  152                  click_on \"Remove\"\n  153                end\n\n2 matches in 1 file\n",
+					"settings":
+					{
+						"buffer_size": 820,
+						"line_ending": "Unix",
+						"name": "Find Results",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/home/bwest/Projects/cleverclerk/platform/app/views/bookings/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 1403,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 33.0,
+				"selected_items":
+				[
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"syfis",
+						"Set Syntax: Shell Script (fish)"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"list p",
+						"Package Control: List Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"synma",
+						"Set Syntax: Markdown"
+					],
+					[
+						"synjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"syn h",
+						"Set Syntax: HTML"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"synh",
+						"Set Syntax: HTML"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"synco",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"packe",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 467.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/users_index_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/configure_organization_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/tour_company_bookings_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/associate_tour_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/config/initializers/string.rb",
+				"/home/bwest/Projects/wp-clever-clerk/tours.html",
+				"/home/bwest/Projects/wp-clever-clerk/src/index.js",
+				"/home/bwest/Projects/wp-clever-clerk/src/presenters/base.js",
+				"/home/bwest/Projects/wp-clever-clerk/src/templates/tour.jade",
+				"/home/bwest/Projects/wp-clever-clerk/index.php",
+				"/home/bwest/Projects/wp-clever-clerk/readme.md",
+				"/home/bwest/Projects/wp-clever-clerk/package.json",
+				"/home/bwest/Projects/wp-clever-clerk/src/present.js",
+				"/home/bwest/Projects/wp-clever-clerk/.gitignore",
+				"/home/bwest/Projects/wp-clever-clerk/src/presenters/tours.js",
+				"/home/bwest/Projects/wp-clever-clerk/src/presenters/tour.js",
+				"/home/bwest/Projects/wp-clever-clerk/src/template.js",
+				"/home/bwest/Projects/wp-clever-clerk/build/cleverclerk.js",
+				"/home/bwest/Projects/cleverclerk/platform/spec/requests/bookings_api_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/requests/hotel_api_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/controllers/bookings_contoller_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/lib/services/create_booking.rb",
+				"/home/bwest/Projects/cleverclerk/platform/Gemfile",
+				"/home/bwest/Projects/cleverclerk/platform/spec/factories/booking.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/models/booking.rb",
+				"/home/bwest/Projects/cleverclerk/platform/config/initializers/big_decimal.rb",
+				"/home/bwest/Projects/cleverclerk/platform/Gemfile.lock",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_booking_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/confirmation_policy_message_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_pay_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/config/application.yml",
+				"/home/bwest/Projects/cleverclerk/platform/config/initializers/stripe.rb",
+				"/home/bwest/Projects/cleverclerk/platform/config/application.example.yml",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/bookings/_form.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/app/controllers/bookings_controller.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/support/booking_feature_helpers.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/spec_helper.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/requests/booking_status_api_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/requests/booking_api_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/policies/booking_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/models/booking_confirmation_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/mailers/clever_clerk_admin_mailer_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/helpers/booking_helper_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/user_dashboard_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/tour_company_notification_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/user_bookings_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/tour_company_decline_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/notify_guest_decline_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/hotel_admin_booking_notification_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_notify_confirmed_booking_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_confirm_booking_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_cancel_booked_tour_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_alternate_booking_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/generate_invoice_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/final_booking_notification_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/clever_clerk_booking_notification_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/booking_message_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/booking_confirmation_sidebar_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/helpers/application_helper.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/layouts/application.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/app/helpers/stripe_helper.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/policies/application_policy.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/policies/hotel_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/config/routes.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/policies/guest_pay_policy.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/models/hotel.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/models/guest_pay.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/controllers/guest_pays_controller.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/guest_pays/new.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/lib/cancellation.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/hotels/show.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/app/controllers/hotels_controller.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/guest_pays/_terms.md",
+				"/home/bwest/Projects/cleverclerk/platform/lib/c_c_markdown.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/hotels/_form.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/app/policies/hotel_policy.rb",
+				"/home/bwest/Projects/project-radius/config/database.yml",
+				"/home/bwest/Projects/plantoeat/README.md",
+				"/home/bwest/Projects/plantoeat/lib/app_util.rb",
+				"/home/bwest/Projects/plantoeat/config/initializers/methods.rb",
+				"/home/bwest/Projects/plantoeat/Gemfile",
+				"/home/bwest/Projects/plantoeat/app/models/shopping_list.rb",
+				"/home/bwest/Projects/plantoeat/spec/features/recipes/add_spec.rb",
+				"/home/bwest/Projects/plantoeat/spec/support/factories/base.rb",
+				"/home/bwest/Projects/plantoeat/spec/support/factories/grocery_category.rb",
+				"/home/bwest/Projects/plantoeat/app/models/recipe_ingredient.rb",
+				"/home/bwest/Projects/plantoeat/app/controllers/recipes_controller.rb",
+				"/home/bwest/Projects/plantoeat/app/models/recipe.rb",
+				"/home/bwest/Projects/plantoeat/app/controllers/shopping_lists_controller.rb",
+				"/home/bwest/Projects/plantoeat/app/models/ingredient.rb",
+				"/home/bwest/Projects/plantoeat/spec/controllers/shopping_lists/add_ingredient_spec.rb",
+				"/home/bwest/Projects/plantoeat/app/models/shopping_list_item.rb",
+				"/home/bwest/Projects/plantoeat/app/controllers/planner_controller.rb",
+				"/home/bwest/Projects/plantoeat/app/controllers/grocery_categories_controller.rb",
+				"/home/bwest/Projects/plantoeat/app/models/grocery_category.rb",
+				"/home/bwest/Projects/plantoeat/app/controllers/ingredients_controller.rb",
+				"/home/bwest/Projects/plantoeat/db/schema.rb",
+				"/home/bwest/Projects/plantoeat/config/initializers/session_store.rb",
+				"/home/bwest/Projects/plantoeat/bundle",
+				"/home/bwest/Projects/plantoeat/open",
+				"/home/bwest/Projects/plantoeat/sanitize",
+				"/home/bwest/Projects/plantoeat/Gemfile.lock",
+				"/home/bwest/Projects/plantoeat/app/models/user.rb",
+				"/home/bwest/Projects/plantoeat/app/views/recipes/_form.html.erb",
+				"/home/bwest/Projects/plantoeat/app/views/photos/_add_photo.html.erb",
+				"/home/bwest/Projects/plantoeat/spec/spec_helper.rb",
+				"/home/bwest/Projects/plantoeat/config/database.yml",
+				"/home/bwest/.config/fish/config.fish",
+				"/home/bwest/.config/fisish",
+				"/home/bwest/Projects/plantoeat/spec/support/factories/user.rb",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/templates/nav.jade",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/router.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/config.json",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/views/hotel/show.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/clever_clerk/index.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/assets/css/cleverclerk/main.less",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/templates/assets/menu.jade",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/views/assets/menu.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/templates/hotels/show.jade",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/presenters/hotel.js",
+				"/home/bwest/Projects/cleverclerk/platform/app/controllers/invoices_controller.rb",
+				"/home/bwest/Projects/cleverclerk/platform/db/schema.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/invoices/new.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/app/models/invoice.rb",
+				"/home/bwest/Downloads/eula.txt",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/api/v1/bookings/item.json.rabl",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/api/v1/bookings/index.json.rabl",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/api/v1/bookings/show.json.rabl"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"-node_modules/, -cleverclerk.min.js",
+					"-node_modules/",
+					"",
+					"*.js",
+					"",
+					"-node_modules/, -public/, -tasks/, -models/",
+					"-node_modules/, -public/, -vendor/, -tasks/, -models/",
+					"-node_modules/, -public/, -vendor/, -tasks/",
+					"-node_modules/, -public/, -vendor/",
+					"-node_modules/, -public/",
+					"-node_modules/, -public",
+					"-node_modules/",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"contains.+company.name",
+					"xpath.+contains.+#\\{user",
+					"xpath.+contains.+#",
+					"xpath.+contains",
+					"contains",
+					"tour_date",
+					"\"hello\"",
+					"newArr",
+					"presentspec[key]",
+					"jquery",
+					"[0]",
+					"_enqueue",
+					"dvi",
+					"Money",
+					"pry",
+					"'not_a_real_token'",
+					"stripe_helper",
+					"conf",
+					"room",
+					"Stripe",
+					"STRIPE_KEY",
+					"booking.tour",
+					"booking.hotel",
+					"create :booking",
+					"build(:booking",
+					"create(:booking",
+					"build(:booking,",
+					"create :booking",
+					"create :",
+					"save",
+					"def cre",
+					"Make",
+					"Card Number",
+					"card number",
+					"label for",
+					"cvc",
+					"exp-month",
+					"cvc",
+					"number",
+					"span",
+					"form-row",
+					"markdown",
+					"enabled",
+					"Generate Invoice",
+					"hotels",
+					"describe",
+					"amount_start",
+					"title",
+					":active",
+					"active",
+					"ingredient",
+					"save_ingredient",
+					"(INSERT.+ingredients|Ingredient\\.(new|create))",
+					"INSERT.+ingredients",
+					"similar_titles",
+					"similar_ingredient_ids_from_title",
+					"similar_ingredient_ids",
+					"similar_shopping_list_items",
+					"grocery_categories",
+					"shopping_list_item",
+					"binding.pry",
+					"b",
+					"user",
+					"delete_items",
+					"removed",
+					"pry",
+					"shopping_list_user",
+					"amount",
+					":",
+					"title: ",
+					":",
+					"title: ",
+					":",
+					"check_values",
+					"before",
+					"SanitizeHelper",
+					"ActionController::Base[\\n.]+(include|extend)",
+					"ActionController::Base[\\n.]+include",
+					"ActionController::Base.+include",
+					"ActionController::Base.include",
+					"ActionController::Base.extend",
+					"ActionController.extend",
+					"ActionController\\.include",
+					"ActionController",
+					"def sanitize",
+					"sanitize",
+					"helpers",
+					"def sanitize",
+					"sanitize_attributes",
+					"create_items",
+					"def create_items",
+					".map(&:id).join(',')",
+					"delete_items",
+					"pry",
+					"']\n",
+					"delete_items",
+					"title",
+					"\n",
+					"photo",
+					"add_photo",
+					"photo_wrap",
+					"root",
+					"                            ",
+					"\\.hidden",
+					"hotel",
+					"menuAsset",
+					"(layer|level)\\s*\\:\\s*\\d",
+					"layer|level\\s*\\:\\s*\\d",
+					"layer|level\\s*\\\\:\\s*\\d",
+					"layer|level\\s*:\\s*\\d",
+					"layer|level\\s*\\:\\s*\\d",
+					"layer|level\\s+\\:",
+					"save_start_date",
+					"Generate",
+					"tour_date",
+					"user_auth_token",
+					"expect_[^i]",
+					"expect_[ae]",
+					"expect_",
+					"alternate_time",
+					"false",
+					"enable",
+					"getFilteredObjects()",
+					"prop, value",
+					"' + '",
+					"disable",
+					"enable",
+					"disable"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"  "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/bwest/Projects/cleverclerk/platform"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/bwest/Projects/cleverclerk/platform/app/views/bookings/_form.html.erb",
+							"settings":
+							{
+								"buffer_size": 7058,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2303,
+										2303
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"devel": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": "load-save",
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 743.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/bwest/Projects/cleverclerk/platform/spec/controllers/bookings_contoller_spec.rb",
+							"settings":
+							{
+								"buffer_size": 2030,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1566,
+										1566
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"devel": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": "load-save",
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 30.0,
+								"translation.y": 376.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 9,
+					"sheets":
+					[
+						{
+							"buffer": 2,
+							"file": "/home/bwest/Projects/cleverclerk/platform/lib/services/create_booking.rb",
+							"settings":
+							{
+								"buffer_size": 1053,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1053,
+										1053
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"devel": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": "load-save",
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/bwest/Projects/cleverclerk/platform/app/models/booking.rb",
+							"settings":
+							{
+								"buffer_size": 7338,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7082,
+										7082
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"devel": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": "load-save",
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4701.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/bwest/Projects/cleverclerk/platform/spec/factories/booking.rb",
+							"settings":
+							{
+								"buffer_size": 3240,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										486,
+										486
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"devel": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": "load-save",
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/bwest/Projects/cleverclerk/platform/app/models/hotel_tour.rb",
+							"settings":
+							{
+								"buffer_size": 641,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"devel": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": "load-save",
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/bwest/Projects/cleverclerk/platform/app/models/guest_pay.rb",
+							"settings":
+							{
+								"buffer_size": 765,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										500,
+										500
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"devel": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": "load-save",
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/bwest/Projects/cleverclerk/platform/config/initializers/string.rb",
+							"settings":
+							{
+								"buffer_size": 74,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										74,
+										74
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"devel": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": "load-save",
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/bwest/Projects/cleverclerk/platform/spec/features/associate_tour_spec.rb",
+							"settings":
+							{
+								"buffer_size": 1754,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										556,
+										556
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"devel": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": "load-save",
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 57.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/bwest/Projects/cleverclerk/platform/spec/features/configure_organization_spec.rb",
+							"settings":
+							{
+								"buffer_size": 5198,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4258,
+										4258
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"devel": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": "load-save",
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 150.0,
+								"translation.y": 2323.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"settings":
+							{
+								"buffer_size": 820,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												346,
+												377
+											],
+											[
+												679,
+												710
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										350,
+										350
+									]
+								],
+								"settings":
+								{
+									"detect_indentation": false,
+									"output_tag": 1,
+									"result_base_dir": "",
+									"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/home/bwest/Projects/cleverclerk/platform/app/views/bookings/index.html.erb",
+							"settings":
+							{
+								"buffer_size": 1403,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1133,
+										1133
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"devel": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": "load-save",
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 118.0
+			},
+			"position": "0,1,0,0,0,960,27,1600,507,4480,1440",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"app/views/bookings/index.html.erb",
+						"app/views/bookings/index.html.erb"
+					],
+					[
+						"configure_organization_spec.rb",
+						"spec/features/configure_organization_spec.rb"
+					],
+					[
+						"lib/services/create_booking.rb",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"associate_tour_spec.rb",
+						"spec/features/associate_tour_spec.rb"
+					],
+					[
+						"sting",
+						"config/initializers/string.rb"
+					],
+					[
+						"guest_pay",
+						"app/models/guest_pay.rb"
+					],
+					[
+						"hotel_tour",
+						"app/models/hotel_tour.rb"
+					],
+					[
+						"booking",
+						"spec/factories/booking.rb"
+					],
+					[
+						"facbooking",
+						"spec/factories/booking.rb"
+					],
+					[
+						"bookings_contoller_spec.rb",
+						"spec/controllers/bookings_contoller_spec.rb"
+					],
+					[
+						"createbooking",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"bookform",
+						"app/views/bookings/_form.html.erb"
+					],
+					[
+						"featur",
+						"spec/support/booking_feature_helpers.rb"
+					],
+					[
+						"libcreatbookin",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"hotpol",
+						"app/policies/hotel_policy.rb"
+					],
+					[
+						"tourpricing",
+						"spec/features/tour_pricing_spec.rb"
+					],
+					[
+						"viinv",
+						"spec/features/view_invoice_spec.rb"
+					],
+					[
+						"factline",
+						"spec/factories/line_item.rb"
+					],
+					[
+						"bookingconapi",
+						"spec/requests/booking_confirmations_api_spec.rb"
+					],
+					[
+						"apihotels",
+						"app/controllers/api/v1/hotels_controller.rb"
+					],
+					[
+						"hotel_api_",
+						"spec/requests/hotel_api_spec.rb"
+					],
+					[
+						"bookings_ap",
+						"spec/requests/bookings_api_spec.rb"
+					],
+					[
+						"_form",
+						"app/views/bookings/_form.html.erb"
+					],
+					[
+						"creabookin",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"modbookin",
+						"app/models/booking.rb"
+					],
+					[
+						"creatbooking",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"factbook",
+						"spec/factories/booking.rb"
+					],
+					[
+						"guestbooking",
+						"spec/features/guest_booking_spec.rb"
+					],
+					[
+						"guespay",
+						"spec/features/guest_pay_spec.rb"
+					],
+					[
+						"booking_con",
+						"app/models/booking_confirmation.rb"
+					],
+					[
+						"libcreatebookingcon",
+						"lib/services/create_booking_confirmation.rb"
+					],
+					[
+						"booking_confirmations_contr",
+						"app/controllers/booking_confirmations_controller.rb"
+					],
+					[
+						"createbooki",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"gemfile",
+						"Gemfile.lock"
+					],
+					[
+						"modbook",
+						"app/models/booking.rb"
+					],
+					[
+						"factb",
+						"spec/factories/booking.rb"
+					],
+					[
+						"factbookin",
+						"spec/factories/booking.rb"
+					],
+					[
+						"factbooking",
+						"spec/factories/booking.rb"
+					],
+					[
+						"libboking",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"spec_help",
+						"spec/spec_helper.rb"
+					],
+					[
+						"gemfile.",
+						"Gemfile.lock"
+					],
+					[
+						"boking",
+						"app/models/booking.rb"
+					],
+					[
+						"bookfeh",
+						"spec/support/booking_feature_helpers.rb"
+					],
+					[
+						"bookingcon",
+						"app/controllers/bookings_controller.rb"
+					],
+					[
+						"apphtl",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"apphe",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"bookingform",
+						"app/views/bookings/_form.html.erb"
+					],
+					[
+						"apphelp",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"apphtml",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"hotelform",
+						"app/views/hotels/_form.html.erb"
+					],
+					[
+						"cance",
+						"lib/cancellation.rb"
+					],
+					[
+						"modho",
+						"app/models/hotel.rb"
+					],
+					[
+						"polhotelspec",
+						"spec/policies/hotel_spec.rb"
+					],
+					[
+						"appp",
+						"app/policies/application_policy.rb"
+					],
+					[
+						"hotelscontr",
+						"app/controllers/hotels_controller.rb"
+					],
+					[
+						"hotelpol",
+						"app/policies/hotel_policy.rb"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"sche",
+						"db/schema.rb"
+					],
+					[
+						"shoppin",
+						"app/controllers/shopping_lists_controller.rb"
+					],
+					[
+						"addin",
+						"spec/controllers/shopping_lists/add_ingredient_spec.rb"
+					],
+					[
+						"modingr",
+						"app/models/ingredient.rb"
+					],
+					[
+						"recontro",
+						"app/controllers/recipes_controller.rb"
+					],
+					[
+						"ingre",
+						"app/models/ingredient.rb"
+					],
+					[
+						"schema",
+						"db/schema.rb"
+					],
+					[
+						"read",
+						"README.md"
+					],
+					[
+						"shoppinglistitem",
+						"app/models/shopping_list_item.rb"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"shopcontrol",
+						"app/controllers/shopping_lists_controller.rb"
+					],
+					[
+						"shopping",
+						"app/controllers/shopping_lists_controller.rb"
+					],
+					[
+						"shoppinglistit",
+						"app/models/shopping_list_item.rb"
+					],
+					[
+						"nav",
+						"app/templates/nav.jade"
+					],
+					[
+						"con",
+						"app/config.json"
+					],
+					[
+						"hotelshow",
+						"app/templates/hotels/show.jade"
+					],
+					[
+						"config",
+						"app/config.json"
+					],
+					[
+						"prehotel",
+						"app/presenters/hotel.js"
+					],
+					[
+						"ccind",
+						"app/clever_clerk/index.js"
+					],
+					[
+						"modinvoice",
+						"app/models/invoice.rb"
+					],
+					[
+						"specinv",
+						"spec/features/generate_invoice_spec.rb"
+					],
+					[
+						"booking.r",
+						"app/models/booking.rb"
+					],
+					[
+						"invoicesnew",
+						"app/views/invoices/new.html.erb"
+					],
+					[
+						"invoiccontr",
+						"app/controllers/invoices_controller.rb"
+					],
+					[
+						"apppol",
+						"app/policies/application_policy.rb"
+					],
+					[
+						"bookingpo",
+						"app/policies/booking_policy.rb"
+					],
+					[
+						"bookingshorab",
+						"app/views/api/v1/bookings/show.json.rabl"
+					],
+					[
+						"apibookco",
+						"app/controllers/api/v1/bookings_controller.rb"
+					],
+					[
+						"specstatusap",
+						"spec/requests/booking_status_api_spec.rb"
+					],
+					[
+						"guardf",
+						"Guardfile"
+					],
+					[
+						"index.js",
+						"src/app/index.js"
+					],
+					[
+						"grunt",
+						"Gruntfile.coffee"
+					],
+					[
+						"packa",
+						"package.json"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 253.0,
+			"status_bar_visible": true,
+			"window_id": 35,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"rese",
+						"reset_booking_statuses"
+					],
+					[
+						"notification",
+						"notification_popover"
+					],
+					[
+						"price",
+						"price_basis"
+					],
+					[
+						"data",
+						"data_attributes"
+					],
+					[
+						"pres",
+						"presenters"
+					],
+					[
+						"tou",
+						"tour_company"
+					],
+					[
+						"tour",
+						"tour_company"
+					],
+					[
+						"_",
+						"_enqueue"
+					],
+					[
+						"Clever",
+						"CleverClerk"
+					],
+					[
+						"stripe",
+						"stripe_helper"
+					],
+					[
+						"booking",
+						"booking_confirmation"
+					],
+					[
+						"expect",
+						"expectation"
+					],
+					[
+						"create",
+						"create_post_hash"
+					],
+					[
+						"wt",
+						"with_room_number"
+					],
+					[
+						"with",
+						"with_room_number"
+					],
+					[
+						"alert",
+						"alertTemplate"
+					],
+					[
+						"guest",
+						"guest_pay"
+					],
+					[
+						"Guest",
+						"Guest-Pay"
+					],
+					[
+						"guest_pay",
+						"guest_pay_date"
+					],
+					[
+						"cate",
+						"category_id"
+					],
+					[
+						"update",
+						"update_items"
+					],
+					[
+						"sho",
+						"shopping_list_items"
+					],
+					[
+						"shopping",
+						"shopping_list_item"
+					],
+					[
+						"end",
+						"end_of_last_period"
+					],
+					[
+						"st",
+						"save_start_date"
+					],
+					[
+						"can",
+						"candidate_line_items"
+					],
+					[
+						"user",
+						"user_is_owner"
+					],
+					[
+						"alternate",
+						"alternate_time"
+					],
+					[
+						"chec",
+						"checkbox-manager"
+					],
+					[
+						"Wi",
+						"widgetsManager"
+					],
+					[
+						"filter",
+						"filter_value"
+					],
+					[
+						"pr",
+						"propName"
+					],
+					[
+						"Backbone",
+						"BackboneObject"
+					],
+					[
+						"pare",
+						"parent_ids"
+					],
+					[
+						"parent",
+						"parent_items"
+					],
+					[
+						"child",
+						"child_item_id"
+					],
+					[
+						"sub",
+						"subView"
+					],
+					[
+						"note",
+						"notes"
+					],
+					[
+						"ed",
+						"editItem"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"AppMo",
+						"AppModelShowView"
+					],
+					[
+						"AppMode",
+						"AppModelEditView"
+					],
+					[
+						"app",
+						"app_model"
+					],
+					[
+						"App",
+						"AppModel"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/bwest/Projects/cleverclerk/guest_client/app/collections/bookings.js",
+					"settings":
+					{
+						"buffer_size": 795,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bwest/Projects/cleverclerk/guest_client/app/views/notification_popover.js",
+					"settings":
+					{
+						"buffer_size": 5439,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "var Backbone = require('app/mvc.js');\nvar _ = require('underscore');\n\nvar BookingPresenter = require('app/presenters/booking.js');\n\nvar bookingStatusTemplate = require('app/templates/notifications/booking_status.jade');\nvar notificationMessage = require('lib/notification_message.js');\n\nvar BookingStatus = Backbone.View.extend({\n  initialize: function(options) {\n    var _this = this;\n    options.injectedDependencies(this, ['cleverClerk', 'bookings', 'notification_popover']);    \n    this.listenTo(this.model, 'change', this.render);\n  },\n\n  tagName: 'li',\n  className: 'booking',\n\n  template: bookingStatusTemplate,\n\n  events: {\n    'click .booking_confirmed': 'confirm_booking',\n    'click .booking_declined': 'decline_booking',\n    'click': 'hide_notification'\n  },\n\n  hide_notification: function() {\n    this.model.hide();\n  },\n\n  render: function() {\n    this.$el.html(this.template({\n      notification: this.notification()\n    }));\n  },\n\n  notification: function() {\n    return _.extend({}, notificationMessage(this.model.get('status')), {\n      booking: BookingPresenter.present(this.model),\n    });\n  },\n\n  confirm_booking: function(e) {\n    var booking_id = this.model.get('id');\n\n    this.cleverClerk.new_booking_confirmation(booking_id, 'confirmation')\n      .done(this.notification_popover.update_bookings);\n  },\n\n  decline_booking: function(e) {\n    var booking_id = this.model.get('id');\n\n    this.cleverClerk.new_booking_confirmation(booking_id, 'rejection') //rejection!\n      .done(this.notification_popover.update_bookings);\n  }\n});\n\nmodule.exports = BookingStatus;\n",
+					"file": "/home/bwest/Projects/cleverclerk/guest_client/app/views/booking_status.js",
+					"file_size": 1779,
+					"file_write_time": 1432353691000000,
+					"settings":
+					{
+						"buffer_size": 1588,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 33.0,
+				"selected_items":
+				[
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"syfis",
+						"Set Syntax: Shell Script (fish)"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"list p",
+						"Package Control: List Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"synma",
+						"Set Syntax: Markdown"
+					],
+					[
+						"synjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"syn h",
+						"Set Syntax: HTML"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"synh",
+						"Set Syntax: HTML"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"synco",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"packe",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 467.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/bwest/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/templates/notification.jade",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/models/booking.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/models/booking_confirmation.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/models/booking_status.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/models/attraction_group.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/models/tour.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/models/hotel.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/models/user.js",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/users_index_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/configure_organization_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/tour_company_bookings_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/associate_tour_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/config/initializers/string.rb",
+				"/home/bwest/Projects/wp-clever-clerk/tours.html",
+				"/home/bwest/Projects/wp-clever-clerk/src/index.js",
+				"/home/bwest/Projects/wp-clever-clerk/src/presenters/base.js",
+				"/home/bwest/Projects/wp-clever-clerk/src/templates/tour.jade",
+				"/home/bwest/Projects/wp-clever-clerk/index.php",
+				"/home/bwest/Projects/wp-clever-clerk/readme.md",
+				"/home/bwest/Projects/wp-clever-clerk/package.json",
+				"/home/bwest/Projects/wp-clever-clerk/src/present.js",
+				"/home/bwest/Projects/wp-clever-clerk/.gitignore",
+				"/home/bwest/Projects/wp-clever-clerk/src/presenters/tours.js",
+				"/home/bwest/Projects/wp-clever-clerk/src/presenters/tour.js",
+				"/home/bwest/Projects/wp-clever-clerk/src/template.js",
+				"/home/bwest/Projects/wp-clever-clerk/build/cleverclerk.js",
+				"/home/bwest/Projects/cleverclerk/platform/spec/requests/bookings_api_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/requests/hotel_api_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/controllers/bookings_contoller_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/lib/services/create_booking.rb",
+				"/home/bwest/Projects/cleverclerk/platform/Gemfile",
+				"/home/bwest/Projects/cleverclerk/platform/spec/factories/booking.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/models/booking.rb",
+				"/home/bwest/Projects/cleverclerk/platform/config/initializers/big_decimal.rb",
+				"/home/bwest/Projects/cleverclerk/platform/Gemfile.lock",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_booking_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/confirmation_policy_message_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_pay_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/config/application.yml",
+				"/home/bwest/Projects/cleverclerk/platform/config/initializers/stripe.rb",
+				"/home/bwest/Projects/cleverclerk/platform/config/application.example.yml",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/bookings/_form.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/app/controllers/bookings_controller.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/support/booking_feature_helpers.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/spec_helper.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/requests/booking_status_api_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/requests/booking_api_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/policies/booking_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/models/booking_confirmation_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/mailers/clever_clerk_admin_mailer_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/helpers/booking_helper_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/user_dashboard_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/tour_company_notification_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/user_bookings_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/tour_company_decline_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/notify_guest_decline_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/hotel_admin_booking_notification_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_notify_confirmed_booking_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_confirm_booking_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_cancel_booked_tour_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/guest_alternate_booking_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/generate_invoice_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/final_booking_notification_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/clever_clerk_booking_notification_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/booking_message_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/features/booking_confirmation_sidebar_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/helpers/application_helper.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/layouts/application.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/app/helpers/stripe_helper.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/policies/application_policy.rb",
+				"/home/bwest/Projects/cleverclerk/platform/spec/policies/hotel_spec.rb",
+				"/home/bwest/Projects/cleverclerk/platform/config/routes.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/policies/guest_pay_policy.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/models/hotel.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/models/guest_pay.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/controllers/guest_pays_controller.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/guest_pays/new.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/lib/cancellation.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/hotels/show.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/app/controllers/hotels_controller.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/guest_pays/_terms.md",
+				"/home/bwest/Projects/cleverclerk/platform/lib/c_c_markdown.rb",
+				"/home/bwest/Projects/cleverclerk/platform/app/views/hotels/_form.html.erb",
+				"/home/bwest/Projects/cleverclerk/platform/app/policies/hotel_policy.rb",
+				"/home/bwest/Projects/project-radius/config/database.yml",
+				"/home/bwest/Projects/plantoeat/README.md",
+				"/home/bwest/Projects/plantoeat/lib/app_util.rb",
+				"/home/bwest/Projects/plantoeat/config/initializers/methods.rb",
+				"/home/bwest/Projects/plantoeat/Gemfile",
+				"/home/bwest/Projects/plantoeat/app/models/shopping_list.rb",
+				"/home/bwest/Projects/plantoeat/spec/features/recipes/add_spec.rb",
+				"/home/bwest/Projects/plantoeat/spec/support/factories/base.rb",
+				"/home/bwest/Projects/plantoeat/spec/support/factories/grocery_category.rb",
+				"/home/bwest/Projects/plantoeat/app/models/recipe_ingredient.rb",
+				"/home/bwest/Projects/plantoeat/app/controllers/recipes_controller.rb",
+				"/home/bwest/Projects/plantoeat/app/models/recipe.rb",
+				"/home/bwest/Projects/plantoeat/app/controllers/shopping_lists_controller.rb",
+				"/home/bwest/Projects/plantoeat/app/models/ingredient.rb",
+				"/home/bwest/Projects/plantoeat/spec/controllers/shopping_lists/add_ingredient_spec.rb",
+				"/home/bwest/Projects/plantoeat/app/models/shopping_list_item.rb",
+				"/home/bwest/Projects/plantoeat/app/controllers/planner_controller.rb",
+				"/home/bwest/Projects/plantoeat/app/controllers/grocery_categories_controller.rb",
+				"/home/bwest/Projects/plantoeat/app/models/grocery_category.rb",
+				"/home/bwest/Projects/plantoeat/app/controllers/ingredients_controller.rb",
+				"/home/bwest/Projects/plantoeat/db/schema.rb",
+				"/home/bwest/Projects/plantoeat/config/initializers/session_store.rb",
+				"/home/bwest/Projects/plantoeat/bundle",
+				"/home/bwest/Projects/plantoeat/open",
+				"/home/bwest/Projects/plantoeat/sanitize",
+				"/home/bwest/Projects/plantoeat/Gemfile.lock",
+				"/home/bwest/Projects/plantoeat/app/models/user.rb",
+				"/home/bwest/Projects/plantoeat/app/views/recipes/_form.html.erb",
+				"/home/bwest/Projects/plantoeat/app/views/photos/_add_photo.html.erb",
+				"/home/bwest/Projects/plantoeat/spec/spec_helper.rb",
+				"/home/bwest/Projects/plantoeat/config/database.yml",
+				"/home/bwest/.config/fish/config.fish",
+				"/home/bwest/.config/fisish",
+				"/home/bwest/Projects/plantoeat/spec/support/factories/user.rb",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/templates/nav.jade",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/router.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/config.json",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/views/hotel/show.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/clever_clerk/index.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/assets/css/cleverclerk/main.less",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/templates/assets/menu.jade",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/views/assets/menu.js",
+				"/home/bwest/Projects/cleverclerk/guest_client/app/templates/hotels/show.jade"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"-node_modules/, -cleverclerk.min.js",
+					"-node_modules/",
+					"",
+					"*.js",
+					"",
+					"-node_modules/, -public/, -tasks/, -models/",
+					"-node_modules/, -public/, -vendor/, -tasks/, -models/",
+					"-node_modules/, -public/, -vendor/, -tasks/",
+					"-node_modules/, -public/, -vendor/",
+					"-node_modules/, -public/",
+					"-node_modules/, -public",
+					"-node_modules/",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"reset_booking_statuses",
+					"function getStatusView(injector, booking)",
+					"contains.+company.name",
+					"xpath.+contains.+#\\{user",
+					"xpath.+contains.+#",
+					"xpath.+contains",
+					"contains",
+					"tour_date",
+					"\"hello\"",
+					"newArr",
+					"presentspec[key]",
+					"jquery",
+					"[0]",
+					"_enqueue",
+					"dvi",
+					"Money",
+					"pry",
+					"'not_a_real_token'",
+					"stripe_helper",
+					"conf",
+					"room",
+					"Stripe",
+					"STRIPE_KEY",
+					"booking.tour",
+					"booking.hotel",
+					"create :booking",
+					"build(:booking",
+					"create(:booking",
+					"build(:booking,",
+					"create :booking",
+					"create :",
+					"save",
+					"def cre",
+					"Make",
+					"Card Number",
+					"card number",
+					"label for",
+					"cvc",
+					"exp-month",
+					"cvc",
+					"number",
+					"span",
+					"form-row",
+					"markdown",
+					"enabled",
+					"Generate Invoice",
+					"hotels",
+					"describe",
+					"amount_start",
+					"title",
+					":active",
+					"active",
+					"ingredient",
+					"save_ingredient",
+					"(INSERT.+ingredients|Ingredient\\.(new|create))",
+					"INSERT.+ingredients",
+					"similar_titles",
+					"similar_ingredient_ids_from_title",
+					"similar_ingredient_ids",
+					"similar_shopping_list_items",
+					"grocery_categories",
+					"shopping_list_item",
+					"binding.pry",
+					"b",
+					"user",
+					"delete_items",
+					"removed",
+					"pry",
+					"shopping_list_user",
+					"amount",
+					":",
+					"title: ",
+					":",
+					"title: ",
+					":",
+					"check_values",
+					"before",
+					"SanitizeHelper",
+					"ActionController::Base[\\n.]+(include|extend)",
+					"ActionController::Base[\\n.]+include",
+					"ActionController::Base.+include",
+					"ActionController::Base.include",
+					"ActionController::Base.extend",
+					"ActionController.extend",
+					"ActionController\\.include",
+					"ActionController",
+					"def sanitize",
+					"sanitize",
+					"helpers",
+					"def sanitize",
+					"sanitize_attributes",
+					"create_items",
+					"def create_items",
+					".map(&:id).join(',')",
+					"delete_items",
+					"pry",
+					"']\n",
+					"delete_items",
+					"title",
+					"\n",
+					"photo",
+					"add_photo",
+					"photo_wrap",
+					"root",
+					"                            ",
+					"\\.hidden",
+					"hotel",
+					"menuAsset",
+					"(layer|level)\\s*\\:\\s*\\d",
+					"layer|level\\s*\\:\\s*\\d",
+					"layer|level\\s*\\\\:\\s*\\d",
+					"layer|level\\s*:\\s*\\d",
+					"layer|level\\s*\\:\\s*\\d",
+					"layer|level\\s+\\:",
+					"save_start_date",
+					"Generate",
+					"tour_date",
+					"user_auth_token",
+					"expect_[^i]",
+					"expect_[ae]",
+					"expect_",
+					"alternate_time",
+					"false",
+					"enable",
+					"getFilteredObjects()",
+					"prop, value",
+					"' + '",
+					"disable"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"  "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/bwest/Projects/cleverclerk/guest_client"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/bwest/Projects/cleverclerk/guest_client/app/collections/bookings.js",
+							"settings":
+							{
+								"buffer_size": 795,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"devel": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": "load-save",
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/bwest/Projects/cleverclerk/guest_client/app/views/notification_popover.js",
+							"settings":
+							{
+								"buffer_size": 5439,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1141,
+										1141
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"devel": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": "load-save",
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 204.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 2,
+							"file": "/home/bwest/Projects/cleverclerk/guest_client/app/views/booking_status.js",
+							"settings":
+							{
+								"buffer_size": 1588,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										70,
+										70
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"devel": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": "load-save",
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 157.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.534193161368,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 118.0
+			},
+			"position": "0,1,0,0,0,960,27,1600,507,4480,1440",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"bookingstats",
+						"app/views/booking_status.js"
+					],
+					[
+						"notification",
+						"app/templates/notification.jade"
+					],
+					[
+						"app/views/bookings/index.html.erb",
+						"app/views/bookings/index.html.erb"
+					],
+					[
+						"configure_organization_spec.rb",
+						"spec/features/configure_organization_spec.rb"
+					],
+					[
+						"lib/services/create_booking.rb",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"associate_tour_spec.rb",
+						"spec/features/associate_tour_spec.rb"
+					],
+					[
+						"sting",
+						"config/initializers/string.rb"
+					],
+					[
+						"guest_pay",
+						"app/models/guest_pay.rb"
+					],
+					[
+						"hotel_tour",
+						"app/models/hotel_tour.rb"
+					],
+					[
+						"booking",
+						"spec/factories/booking.rb"
+					],
+					[
+						"facbooking",
+						"spec/factories/booking.rb"
+					],
+					[
+						"bookings_contoller_spec.rb",
+						"spec/controllers/bookings_contoller_spec.rb"
+					],
+					[
+						"createbooking",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"bookform",
+						"app/views/bookings/_form.html.erb"
+					],
+					[
+						"featur",
+						"spec/support/booking_feature_helpers.rb"
+					],
+					[
+						"libcreatbookin",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"hotpol",
+						"app/policies/hotel_policy.rb"
+					],
+					[
+						"tourpricing",
+						"spec/features/tour_pricing_spec.rb"
+					],
+					[
+						"viinv",
+						"spec/features/view_invoice_spec.rb"
+					],
+					[
+						"factline",
+						"spec/factories/line_item.rb"
+					],
+					[
+						"bookingconapi",
+						"spec/requests/booking_confirmations_api_spec.rb"
+					],
+					[
+						"apihotels",
+						"app/controllers/api/v1/hotels_controller.rb"
+					],
+					[
+						"hotel_api_",
+						"spec/requests/hotel_api_spec.rb"
+					],
+					[
+						"bookings_ap",
+						"spec/requests/bookings_api_spec.rb"
+					],
+					[
+						"_form",
+						"app/views/bookings/_form.html.erb"
+					],
+					[
+						"creabookin",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"modbookin",
+						"app/models/booking.rb"
+					],
+					[
+						"creatbooking",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"factbook",
+						"spec/factories/booking.rb"
+					],
+					[
+						"guestbooking",
+						"spec/features/guest_booking_spec.rb"
+					],
+					[
+						"guespay",
+						"spec/features/guest_pay_spec.rb"
+					],
+					[
+						"booking_con",
+						"app/models/booking_confirmation.rb"
+					],
+					[
+						"libcreatebookingcon",
+						"lib/services/create_booking_confirmation.rb"
+					],
+					[
+						"booking_confirmations_contr",
+						"app/controllers/booking_confirmations_controller.rb"
+					],
+					[
+						"createbooki",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"gemfile",
+						"Gemfile.lock"
+					],
+					[
+						"modbook",
+						"app/models/booking.rb"
+					],
+					[
+						"factb",
+						"spec/factories/booking.rb"
+					],
+					[
+						"factbookin",
+						"spec/factories/booking.rb"
+					],
+					[
+						"factbooking",
+						"spec/factories/booking.rb"
+					],
+					[
+						"libboking",
+						"lib/services/create_booking.rb"
+					],
+					[
+						"spec_help",
+						"spec/spec_helper.rb"
+					],
+					[
+						"gemfile.",
+						"Gemfile.lock"
+					],
+					[
+						"boking",
+						"app/models/booking.rb"
+					],
+					[
+						"bookfeh",
+						"spec/support/booking_feature_helpers.rb"
+					],
+					[
+						"bookingcon",
+						"app/controllers/bookings_controller.rb"
+					],
+					[
+						"apphtl",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"apphe",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"bookingform",
+						"app/views/bookings/_form.html.erb"
+					],
+					[
+						"apphelp",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"apphtml",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"hotelform",
+						"app/views/hotels/_form.html.erb"
+					],
+					[
+						"cance",
+						"lib/cancellation.rb"
+					],
+					[
+						"modho",
+						"app/models/hotel.rb"
+					],
+					[
+						"polhotelspec",
+						"spec/policies/hotel_spec.rb"
+					],
+					[
+						"appp",
+						"app/policies/application_policy.rb"
+					],
+					[
+						"hotelscontr",
+						"app/controllers/hotels_controller.rb"
+					],
+					[
+						"hotelpol",
+						"app/policies/hotel_policy.rb"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"sche",
+						"db/schema.rb"
+					],
+					[
+						"shoppin",
+						"app/controllers/shopping_lists_controller.rb"
+					],
+					[
+						"addin",
+						"spec/controllers/shopping_lists/add_ingredient_spec.rb"
+					],
+					[
+						"modingr",
+						"app/models/ingredient.rb"
+					],
+					[
+						"recontro",
+						"app/controllers/recipes_controller.rb"
+					],
+					[
+						"ingre",
+						"app/models/ingredient.rb"
+					],
+					[
+						"schema",
+						"db/schema.rb"
+					],
+					[
+						"read",
+						"README.md"
+					],
+					[
+						"shoppinglistitem",
+						"app/models/shopping_list_item.rb"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"shopcontrol",
+						"app/controllers/shopping_lists_controller.rb"
+					],
+					[
+						"shopping",
+						"app/controllers/shopping_lists_controller.rb"
+					],
+					[
+						"shoppinglistit",
+						"app/models/shopping_list_item.rb"
+					],
+					[
+						"nav",
+						"app/templates/nav.jade"
+					],
+					[
+						"con",
+						"app/config.json"
+					],
+					[
+						"hotelshow",
+						"app/templates/hotels/show.jade"
+					],
+					[
+						"config",
+						"app/config.json"
+					],
+					[
+						"prehotel",
+						"app/presenters/hotel.js"
+					],
+					[
+						"ccind",
+						"app/clever_clerk/index.js"
+					],
+					[
+						"modinvoice",
+						"app/models/invoice.rb"
+					],
+					[
+						"specinv",
+						"spec/features/generate_invoice_spec.rb"
+					],
+					[
+						"booking.r",
+						"app/models/booking.rb"
+					],
+					[
+						"invoicesnew",
+						"app/views/invoices/new.html.erb"
+					],
+					[
+						"invoiccontr",
+						"app/controllers/invoices_controller.rb"
+					],
+					[
+						"apppol",
+						"app/policies/application_policy.rb"
+					],
+					[
+						"bookingpo",
+						"app/policies/booking_policy.rb"
+					],
+					[
+						"bookingshorab",
+						"app/views/api/v1/bookings/show.json.rabl"
+					],
+					[
+						"apibookco",
+						"app/controllers/api/v1/bookings_controller.rb"
+					],
+					[
+						"specstatusap",
+						"spec/requests/booking_status_api_spec.rb"
+					],
+					[
+						"guardf",
+						"Guardfile"
+					],
+					[
+						"index.js",
+						"src/app/index.js"
+					],
+					[
+						"grunt",
+						"Gruntfile.coffee"
+					],
+					[
+						"packa",
+						"package.json"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 253.0,
+			"status_bar_visible": true,
+			"window_id": 36,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/bwest/Projects/cleverclerk/guest_client/guest_client.sublime-project",
+			"/home/bwest/Projects/back-example/back-example.sublime-project"
+		]
+	}
+}

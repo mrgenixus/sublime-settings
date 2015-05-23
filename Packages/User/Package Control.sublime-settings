@@ -1,0 +1,20 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"CoffeeScriptHaml",
+		"fish-shell",
+		"Gist",
+		"GitGutter",
+		"Jade",
+		"Package Control",
+		"SublimeLinter",
+		"Swig",
+		"ToggleQuotes",
+		"UIkit autocomplete",
+		"Whitespace"
+	]
+}
